@@ -1,4 +1,4 @@
 NG-UI-COMPONENTS
 ================
 
-A collection of angular ui compontents
+A collection of angular ui components
